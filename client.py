@@ -1,11 +1,3 @@
-'''
-Austin Melendez
-Illya Gordyy
-Joshua Dye
-CSC 138 TCP Chat Room
-Due 30 Apr 2024
-The program creates a chat client over TCP allowing for multiple users to simulaneously communicate.
-'''
 #CSC138 TCP CHAT ROOM - CLIENT
 import threading
 import socket
